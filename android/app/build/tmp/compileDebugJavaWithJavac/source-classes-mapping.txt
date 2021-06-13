@@ -1,0 +1,14 @@
+com/marvelproject/MainApplication.java
+ com.marvelproject.MainApplication
+ com.marvelproject.MainApplication$1
+com/marvelproject/MainActivity.java
+ com.marvelproject.MainActivity
+com/marvelproject/BuildConfig.java
+ com.marvelproject.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/marvelproject/ReactNativeFlipper.java
+ com.marvelproject.ReactNativeFlipper
+ com.marvelproject.ReactNativeFlipper$1
+ com.marvelproject.ReactNativeFlipper$2
+ com.marvelproject.ReactNativeFlipper$2$1
